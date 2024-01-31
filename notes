@@ -1,0 +1,6 @@
+html is language used to structure web pages in web development it uses tag that closed with greater smal signs wich form elements.
+elements are identified using tags, the openning tags and the closing tag e.g <p> body </p>. the  closing tag identified by foward slash inside te greater and smaller signs.
+we also nested elements within the tags wich mean we have elements inside elements they for the structure of the html
+tags also form or indicate paragraphs. html tags are not case sensitive.
+html headlines we 6 different headlines which are <h1> to <h6> they are used to head our web pages in different sizs h1 is the and h6 is the smallest.
+we also have elemnts to style our texts, we <em> tags to emphasise a word and '<i> to put words italic th we have the <strong>  wich is used the importance or urgency and it also add a meaning to it it stans out. we also have the <b> that is used to bold the text
